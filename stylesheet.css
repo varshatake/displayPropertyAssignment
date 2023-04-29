@@ -1,0 +1,41 @@
+* {
+  font-family: "Itim", cursive;
+}
+body {
+  background-color: #f3f4f6;
+}
+.box {
+  width: 450px;
+  text-transform: uppercase;
+  /* font-size: xx-large; */
+  color: #00526c;
+  font-size: 250%;
+  margin-bottom: 20px;
+}
+
+.icon {
+  display: inline-block;
+}
+
+.images {
+  font-size: 5px;
+  width: 45px;
+  padding: 10px;
+}
+.contain {
+  /* margin-right: 1500px; */
+  display: inline-block;
+  font-size: larger;
+  margin-left: 40px;
+}
+.container {
+  margin-left: 50px;
+  margin-top: 40px;
+}
+.colortext {
+  color: #0db7eb;
+  font-weight: bold;
+}
+#teampic {
+  width: 750px;
+}
