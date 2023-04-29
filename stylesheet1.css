@@ -1,0 +1,38 @@
+* {
+  font-family: "Itim", cursive;
+}
+body {
+  background-color: rgb(178, 177, 166);
+}
+
+.box {
+  width: 450px;
+  text-transform: uppercase;
+  /* font-size: xx-large; */
+  color: #062f3c;
+  font-size: 200%;
+  margin-bottom: 20px;
+  margin-left: 35px;
+}
+ul {
+  list-style: none;
+}
+li {
+  width: 100px;
+  font-size: 250%;
+  color: rgb(30, 108, 30);
+  display: inline-block;
+}
+
+p {
+  display: inline-block;
+  font-size: large;
+  margin-right: 30px;
+}
+
+.colortext {
+  color: rgb(35, 143, 185);
+}
+img {
+  width: 700px;
+}
